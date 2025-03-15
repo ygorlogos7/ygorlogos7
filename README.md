@@ -7,7 +7,7 @@
 <br>
 <div style = "display: inline_block"> <br>
   <img align = "center" alt = "Ygor-NJS" height = "70" width = "80" src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-  <img align = "center" alt = "Ygor-C#" height = "70" width = "80" src = "http://www.w3.org/2000/svg" viewBox="0 0 128 128""
+  <img align = "center" alt = "Ygor-C#" height = "70" width = "80" src = "http://www.w3.org/2000/svg">
 </div>
 <br><br>
     
