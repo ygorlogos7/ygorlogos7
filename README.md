@@ -7,10 +7,12 @@
 <br>
 <div style = "display: inline_block"> <br>
   <img align = "center" alt = "Ygor-NJS" height = "70" width = "80" src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+  <img align = "center" alt = "Ygor-C#" height = "70" width = "80" src = "http://www.w3.org/2000/svg" viewBox="0 0 128 128""
 </div>
 <br><br>
     
 <div> 
   <a href="https://www.linkedin.com/in/ygor-nonato-0a7740165/" target="_blank"> <img width=120px src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target =" _ blank ">
+  
    <a href = "ygornatheus1702@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
