@@ -6,9 +6,6 @@
 </div>
 <br>
 <div style = "display: inline_block"> <br>
-  <img align = "center" alt = "Ygor-Js" height = "70" width = "80" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align = "center" alt = "Ygor-HTML" height = "70" width = "80" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-  <img align = "center" alt = "Ygor-CSS" height = "70" width = "80" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
   <img align = "center" alt = "Ygor-NJS" height = "70" width = "80" src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
 </div>
 <br><br>
