@@ -3,7 +3,8 @@
   <a href="https://github.com/ygorlogos7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygorlogos7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorlogos7&layout=compact&langs_count=6&theme=dark"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  width="115" alt = "C#">
+  <p></p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  width="120" alt = "C#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="120" alt="dotnet" />
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="120" alt="Python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="120" alt="Sql" />
